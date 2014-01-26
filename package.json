@@ -1,0 +1,12 @@
+{
+  "name": "Outbound.js",
+  "version": "0.1.0",
+  "author": {
+    "name": "Austin Riendeau",
+    "email": "austin@continu.co"
+  },
+  "scripts": {},
+  "dependencies": {
+    "request": "~2.33.0"
+  }
+}
