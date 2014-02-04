@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/continu/outbound.js.png?label=ready)](https://waffle.io/continu/outbound.js)
 # outbound.js
 
 ## Install
